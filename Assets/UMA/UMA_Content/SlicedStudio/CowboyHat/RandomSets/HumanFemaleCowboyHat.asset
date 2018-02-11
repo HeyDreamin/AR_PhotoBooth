@@ -1,0 +1,716 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3ff33ba1151314faeee9a805122e49, type: 3}
+  m_Name: HumanFemaleCowboyHat
+  m_EditorClassIdentifier: 
+  data:
+    raceID: 48756d616e46656d616c65
+    slotElements:
+    - possibleSlots:
+      - slotID: 46656d616c6545796573
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 4579654f7665726c6179
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+        - possibleOverlays:
+          - overlayID: 4579654f7665726c617941646a757374
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c6546616365
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c65486561643031
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+        - possibleOverlays:
+          - overlayID: 46656d616c6545796562726f773031
+            maxRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            minRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+        - possibleOverlays:
+          - overlayID: 46656d616c654c6970737469636b3031
+            maxRGB:
+              r: 0.29803923
+              g: 0.2
+              b: 0.2
+              a: 0
+            minRGB:
+              r: 0.29803923
+              g: 0.2
+              b: 0.2
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+          - overlayID: 
+            maxRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            minRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+      - slotID: 46656d616c65486561645f48656164
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c65486561643031
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+        - possibleOverlays:
+          - overlayID: 46656d616c6545796562726f773031
+            maxRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            minRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+        - possibleOverlays:
+          - overlayID: 46656d616c654c6970737469636b3031
+            maxRGB:
+              r: 0.29803923
+              g: 0.2
+              b: 0.2
+              a: 0
+            minRGB:
+              r: 0.29803923
+              g: 0.2
+              b: 0.2
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+          - overlayID: 
+            maxRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            minRGB:
+              r: 0.1254902
+              g: 0.05882353
+              b: 0.05882353
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65486561645f4d6f757468
+        useSharedOverlayList: 1
+        overlayListSource: 1
+        overlayElements: []
+      requirement: 46656d616c65486561645f48656164
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65486561645f45796573
+        useSharedOverlayList: 1
+        overlayListSource: 1
+        overlayElements: []
+      requirement: 46656d616c65486561645f48656164
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65486561645f4e6f7365
+        useSharedOverlayList: 1
+        overlayListSource: 1
+        overlayElements: []
+      requirement: 46656d616c65486561645f48656164
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65486561645f456c76656e45617273
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 456c76656e45617273
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+      - slotID: 46656d616c65486561645f45617273
+        useSharedOverlayList: 1
+        overlayListSource: 1
+        overlayElements: []
+      requirement: 46656d616c65486561645f48656164
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c654579656c617368
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c654579656c617368
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65546f72736f
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c65426f64793031
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+          - overlayID: 46656d616c65426f64793032
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 1
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 4
+        - possibleOverlays:
+          - overlayID: 46656d616c65556e646572776561723031
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c6548616e6473
+        useSharedOverlayList: 1
+        overlayListSource: 7
+        overlayElements: []
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c6546656574
+        useSharedOverlayList: 1
+        overlayListSource: 7
+        overlayElements: []
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c65496e6e65724d6f757468
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 496e6e65724d6f757468
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 3
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 46656d616c654c656773
+        useSharedOverlayList: 1
+        overlayListSource: 7
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c654a65616e733031
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+        - possibleOverlays:
+          - overlayID: 46656d616c6553686972743031
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+          - overlayID: 46656d616c6553686972743032
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+          - overlayID: 
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+          - overlayID: 
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.8862745
+              g: 0.8862745
+              b: 0.8862745
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+      requirement: 
+      condition: 216e6f50616e7473
+    - possibleSlots:
+      - slotID: 46656d616c655473686972743031
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c655473686972743031
+            maxRGB:
+              r: 0.09803922
+              g: 0.09803922
+              b: 0.09803922
+              a: 0
+            minRGB:
+              r: 0.88235295
+              g: 0.88235295
+              b: 0.88235295
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 1
+      - slotID: 
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements: []
+      requirement: 46656d616c654a65616e733031
+      condition: 
+    - possibleSlots:
+      - slotID: 48617453686f72744861697246
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 46656d616c6553686f7274486169723031
+            maxRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            minRGB:
+              r: 0
+              g: 0
+              b: 0
+              a: 0
+            useSkinColor: 0
+            useHairColor: 0
+            hairColorMultiplier: 0
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 5
+      requirement: 
+      condition: 
+    - possibleSlots:
+      - slotID: 436f77626f79486174
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements:
+        - possibleOverlays:
+          - overlayID: 43616d6f686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 436f77626f79686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 43726f636f686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 446574656374697665686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 4669726566696768746572686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 466972656669676874657232686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 47686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 506f6f72
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 53686572696666686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+          - overlayID: 576f76656e686174
+            maxRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            minRGB:
+              r: 1
+              g: 1
+              b: 1
+              a: 0
+            useSkinColor: 0
+            useHairColor: 1
+            hairColorMultiplier: 1
+            colorChannelUse: 0
+            colorChannel: 0
+            overlayType: 2
+      - slotID: 
+        useSharedOverlayList: 0
+        overlayListSource: 0
+        overlayElements: []
+      requirement: 48617453686f72744861697246
+      condition: 

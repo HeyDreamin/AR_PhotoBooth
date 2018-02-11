@@ -1,0 +1,30 @@
+HOW TO USE IMAGE PROCESSING?
+
+1) 	Import ImagePorcessing.unitypackage
+2)	If you want, open "example" scene to see demostration.
+3) 	To use it in your own project, just copy ImageProcess.cs from folder "Image Processing"
+4) 	In some of your scripts just do something like:
+	renderer.material.mainTexture = ImageProcess.SetRotateChannels(yourtexture) as Texture;
+	Make sure you don't call it from OnGUI or Update functions!
+5)	Texture type must be advanced with read/write enabled.
+
+===============================================================================================
+===============================================================================================
+
+CAN I MODIFY IMAGEPROCESS.CS?
+
+Yes, you can :)
+
+===============================================================================================
+===============================================================================================
+
+IT'S SLOW SOMETIMES!
+
+Processing is slower in case of the higher resolution textures.
+
+===============================================================================================
+===============================================================================================
+
+CONTACT?
+tomislav.bali(at)gmail.com
+

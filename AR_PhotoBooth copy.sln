@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_PhotoBooth copy.CSharp.Plugins", "AR_PhotoBooth copy.CSharp.Plugins.csproj", "{1120D52F-7706-4FB6-B243-92D10326C0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_PhotoBooth copy.CSharp", "AR_PhotoBooth copy.CSharp.csproj", "{83045502-C207-73A8-FE73-4365CDAC5BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_PhotoBooth copy.CSharp.Editor", "AR_PhotoBooth copy.CSharp.Editor.csproj", "{BC9DCA6A-6CA6-8015-E448-5A6EC1234633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1120D52F-7706-4FB6-B243-92D10326C0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120D52F-7706-4FB6-B243-92D10326C0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1120D52F-7706-4FB6-B243-92D10326C0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1120D52F-7706-4FB6-B243-92D10326C0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83045502-C207-73A8-FE73-4365CDAC5BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83045502-C207-73A8-FE73-4365CDAC5BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83045502-C207-73A8-FE73-4365CDAC5BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83045502-C207-73A8-FE73-4365CDAC5BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9DCA6A-6CA6-8015-E448-5A6EC1234633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9DCA6A-6CA6-8015-E448-5A6EC1234633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9DCA6A-6CA6-8015-E448-5A6EC1234633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9DCA6A-6CA6-8015-E448-5A6EC1234633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
